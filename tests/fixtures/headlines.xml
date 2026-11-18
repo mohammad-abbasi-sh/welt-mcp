@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:welt="https://www.welt.de/spec" version="2.0">
+  <channel>
+    <title>Nachrichten - WELT</title>
+    <link>https://www.welt.de/feeds/latest.rss</link>
+    <description>Nachrichten - Aktuelle Nachrichten von WELT</description>
+    <language>de</language>
+    <pubDate>Wed, 18 Nov 2026 10:10:03 GMT</pubDate>
+    <image>
+      <title>Nachrichten - WELT</title>
+      <url>https://www.welt.de/rss-logo.png</url>
+      <link>https://www.welt.de/feeds/latest.rss</link>
+      <width>90</width>
+      <height>36</height>
+      <description>Nachrichten - Aktuelle Nachrichten von WELT</description>
+    </image>
+    <item>
+      <title>Baugenehmigungen in Deutschland brechen im September deutlich ein – doch Jahresbilanz bleibt positiv</title>
+      <link>https://www.welt.de/politik/deutschland/article6afd6d12fc384ca056385c40/baugenehmigungen-in-deutschland-brechen-im-september-deutlich-ein-doch-jahresbilanz-bleibt-positiv.html</link>
+      <description>Der Aufwärtstrend im deutschen Wohnungsbau ist gestoppt: Die Zahl der genehmigten Wohnungen sank im September um knapp 15 Prozent. Höhere Zinsen und Baukosten belasten die Branche.</description>
+      <category>Deutschland</category>
+      <pubDate>Wed, 18 Nov 2026 10:10:03 GMT</pubDate>
+      <guid isPermaLink="false">6afd6d12fc384ca056385c40</guid>
+      <dc:creator>Till Henniges</dc:creator>
+      <dc:source>mit dpa und rtr</dc:source>
+      <welt:premium>false</welt:premium>
+      <welt:topic>Jahresvergleich</welt:topic>
+      <welt:commercialOptions>all</welt:commercialOptions>
+      <welt:subType>news</welt:subType>
+      <media:content type="image/jpeg" url="https://images.welt.de/6afd6d12fc384ca056385c40/771566a806d7370faa5b330a76bd385b-master/ci23x11-w1200/dpa-com-261030-935-1707967-jpg">
+        <media:credit scheme="urn:ebu">Patrick Pleul/dpa</media:credit>
+        <media:thumbnail url="https://images.welt.de/6afd6d12fc384ca056385c40/771566a806d7370faa5b330a76bd385b-master/ci23x11-w1200/dpa-com-261030-935-1707967-jpg" />
+      </media:content>
+      <media:keywords>Baugenehmigungen (ks), Wohnungsbau-Lage (ks), Immobilien, Newsteam, Wohnungsbau</media:keywords>
+      <dcterms:lastModified>2026-11-18T10:15:37.309Z</dcterms:lastModified>
+    </item>
+    <item>
+      <title>„Die Fähigkeit, die Welt zu zerstören, hat leider in bedrohlichem Ausmaß zugenommen“</title>
+      <link>https://www.welt.de/politik/ausland/video6afd7858bb7e7a6679f928aa/trump-xi-und-putin-in-china-spd-politiker-ralf-stegner-warnt-vor-weltweitem-wettruesten.html</link>
+      <description>Trump, Xi und Putin treffen sich zum Dreiergipfel in China. SPD-Außenpolitiker Ralf Stegner sieht Chancen für Gespräche über nukleare Abrüstung, warnt aber vor dem weltweiten Wettrüsten: „Das macht die Welt gefährlicher, nicht sicherer.“</description>
+      <category>Ausland</category>
+      <pubDate>Wed, 18 Nov 2026 10:06:57 GMT</pubDate>
+      <guid isPermaLink="false">6afd7858bb7e7a6679f928aa</guid>
+      <dc:creator />
+      <dc:source>WELT TV</dc:source>
+      <welt:premium>false</welt:premium>
+      <welt:topic>Dreiergipfel in China</welt:topic>
+      <welt:commercialOptions>all</welt:commercialOptions>
+      <welt:subType>video</welt:subType>
+      <media:group>
+        <media:content duration="349" type="video/mp4" url="https://welt.cdn.content-discovery.video/videos/fymf3y0hd8ja/rendition/8f3fc16d-73bd-46f6-b6f6-5e1ed7c47e2c/file-v720p.mp4" />
+        <media:content duration="349" type="application/vnd.apple.mpegurl" url="https://welt.cdn.content-discovery.video/videos/fymf3y0hd8ja/rendition/7272bb08-2401-4479-b027-d513229b296e/master.m3u8" />
+      </media:group>
+      <media:content type="image/jpeg" url="https://images.welt.de/6afd7858bb7e7a6679f928aa/267ba383258eee23f3aca3dd8ba7f864/ci16x9-w1200/gyi-2305674187-jpg">
+        <media:credit scheme="urn:ebu">WELT TV</media:credit>
+        <media:rating scheme="urn:fsk">0</media:rating>
+        <media:thumbnail url="https://images.welt.de/6afd7858bb7e7a6679f928aa/267ba383258eee23f3aca3dd8ba7f864/ci16x9-w1200/gyi-2305674187-jpg" />
+      </media:content>
+      <dcterms:lastModified>2026-11-18T10:18:47.373Z</dcterms:lastModified>
+    </item>
+    <item>
+      <title>„Alle Register gezogen, um Verfahren zu torpedieren“ – Richter kritisiert AfD-Politiker</title>
+      <link>https://www.welt.de/politik/deutschland/article6afd73aabb7e7a6679f927d0/prozess-um-sa-parole-alle-register-gezogen-um-verfahren-zu-torpedieren-richter-kritisiert-afd-politiker.html</link>
+      <description>Der AfD-Landtagsabgeordnete Phillipp-Anders Rau ist wegen einer verbotenen SA-Parole nun rechtskräftig verurteilt. Der Richter wurde in der Verhandlung deutlich.</description>
+      <category>Deutschland</category>
+      <pubDate>Wed, 18 Nov 2026 10:06:25 GMT</pubDate>
+      <guid isPermaLink="false">6afd73aabb7e7a6679f927d0</guid>
+      <dc:creator />
+      <dc:source>dpa/krott</dc:source>
+      <welt:premium>false</welt:premium>
+      <welt:topic>Prozess um SA-Parole</welt:topic>
+      <welt:commercialOptions>all</welt:commercialOptions>
+      <welt:subType>news</welt:subType>
+      <media:content type="image/jpeg" url="https://images.welt.de/6afd73aabb7e7a6679f927d0/c904b62d5d4c0e866951071e715cf874-master/ci23x11-w1200/dpa-com-261118-936-148796-jpg">
+        <media:credit scheme="urn:ebu">Klaus-Dietmar Gabbert/dpa</media:credit>
+        <media:thumbnail url="https://images.welt.de/6afd73aabb7e7a6679f927d0/c904b62d5d4c0e866951071e715cf874-master/ci23x11-w1200/dpa-com-261118-936-148796-jpg" />
+      </media:content>
+      <media:keywords>Strafbefehlsverfahren (ks), Volksverhetzung (ks), Parolen (ks), Nationalsozialismus (NS) (1933-1945) (ks), Newsteam, AfD Sachsen-Anhalt, AfD</media:keywords>
+      <dcterms:lastModified>2026-11-18T10:06:55.158Z</dcterms:lastModified>
+    </item>
+    <item>
+      <title>Merz soll Koalitionsgipfel zwischenzeitlich wütend verlassen haben – Union dementiert vehement</title>
+      <link>https://www.welt.de/politik/deutschland/article6afd6c06fc384ca056385c26/friedrich-merz-soll-koalitionsgipfel-zwischenzeitlich-wuetend-verlassen-haben-union-dementiert-vehement.html</link>
+      <description>Nach acht Stunden einigten sich Union und SPD im Stromsteuer-Streit. Die Fraktionsspitzen sprachen danach von einer „guten Atmosphäre“. Einem Bericht zufolge soll das Treffen jedoch kurz vor dem Abbruch gestanden haben.</description>
+      <category>Deutschland</category>
+      <pubDate>Wed, 18 Nov 2026 10:05:32 GMT</pubDate>
+      <guid isPermaLink="false">6afd6c06fc384ca056385c26</guid>
+      <dc:creator />
+      <dc:source>AFP/rct</dc:source>
+      <welt:premium>false</welt:premium>
+      <welt:topic>„Da mache ich nicht mehr mit“</welt:topic>
+      <welt:commercialOptions>all</welt:commercialOptions>
+      <welt:subType>news</welt:subType>
+      <media:group>
+        <media:content duration="751" type="video/mp4" url="https://welt.cdn.content-discovery.video/videos/17siqpui8gfk/rendition/10a6a715-6958-41ce-b38d-0321c5f8ac0d/file-v720p.mp4" />
+        <media:content duration="751" type="application/vnd.apple.mpegurl" url="https://welt.cdn.content-discovery.video/videos/17siqpui8gfk/rendition/0a1d61e2-ec19-4db5-aeee-031c9e82ca4e/master.m3u8" />
+      </media:group>
+      <media:content type="image/jpeg" url="https://images.welt.de/6afd6c06fc384ca056385c26/85876dd7a7da574323282693596523a8/ci23x11-w1200/dpa-com-261007-936-113822-jpg">
+        <media:credit scheme="urn:ebu">WELT TV</media:credit>
+        <media:thumbnail url="https://images.welt.de/6afd6c06fc384ca056385c26/85876dd7a7da574323282693596523a8/ci23x11-w1200/dpa-com-261007-936-113822-jpg" />
+      </media:content>
+      <media:keywords>CDU, Merz, Friedrich (CDU), SPD, Newsteam, Stromsteuer (ks)</media:keywords>
+      <dcterms:lastModified>2026-11-18T10:10:12.746Z</dcterms:lastModified>
+    </item>
+    <item>
+      <title>„Merz drohte nicht, das Treffen zu verlassen“, widerspricht Thorsten Frei</title>
+      <link>https://www.welt.de/politik/deutschland/video6afd73444e6cd4bac15cee20/streit-um-stromsteuer-merz-drohte-nicht-das-treffen-zu-verlassen-widerspricht-thorsten-frei.html</link>
+      <description>Das Treffen der Koalitionsspitzen im Kanzleramt stand nach Medieninformationen wegen des Streits um die Stromsteuersenkung kurz vor dem Scheitern. Unionsfraktionschef Thorsten Frei (CDU) widerspricht nun dieser Darstellung.</description>
+      <category>Deutschland</category>
+      <pubDate>Wed, 18 Nov 2026 09:58:07 GMT</pubDate>
+      <guid isPermaLink="false">6afd73444e6cd4bac15cee20</guid>
+      <dc:creator />
+      <dc:source>WELT TV</dc:source>
+      <welt:premium>false</welt:premium>
+      <welt:topic>Streit um Stromsteuer</welt:topic>
+      <welt:commercialOptions>all</welt:commercialOptions>
+      <welt:subType>video</welt:subType>
+      <media:group>
+        <media:content duration="751" type="video/mp4" url="https://welt.cdn.content-discovery.video/videos/17siqpui8gfk/rendition/10a6a715-6958-41ce-b38d-0321c5f8ac0d/file-v720p.mp4" />
+        <media:content duration="751" type="application/vnd.apple.mpegurl" url="https://welt.cdn.content-discovery.video/videos/17siqpui8gfk/rendition/0a1d61e2-ec19-4db5-aeee-031c9e82ca4e/master.m3u8" />
+      </media:group>
+      <media:content type="image/jpeg" url="https://images.welt.de/6afd73444e6cd4bac15cee20/2c8c0206de52d37f1db03b2aeb1dfa5a/ci16x9-w1200/frei-png">
+        <media:credit scheme="urn:ebu">WELT TV</media:credit>
+        <media:rating scheme="urn:fsk">0</media:rating>
+        <media:thumbnail url="https://images.welt.de/6afd73444e6cd4bac15cee20/2c8c0206de52d37f1db03b2aeb1dfa5a/ci16x9-w1200/frei-png" />
+      </media:content>
+      <dcterms:lastModified>2026-11-18T10:18:16.691Z</dcterms:lastModified>
+    </item>
+    <item>
+      <title>Peer Steinbrück empört sich bei Lanz – „Ich mache das nicht mit, es interessiert mich auch nicht!“</title>
+      <link>https://www.welt.de/politik/deutschland/article6afd548ea883f861e5330252/markus-lanz-peer-steinbrueck-empoert-sich-ich-mache-das-nicht-mit-es-interessiert-mich-auch-nicht.html</link>
+      <description>Personalstreit, Schulden, Sozialstaat: Peer Steinbrück übt bei „Markus Lanz“ scharfe Kritik an seiner Partei. Beim Thema Spionage spricht er sogar von einem „offenen Hosenstall“.</description>
+      <category>Deutschland</category>
+      <pubDate>Wed, 18 Nov 2026 09:57:27 GMT</pubDate>
+      <guid isPermaLink="false">6afd548ea883f861e5330252</guid>
+      <dc:creator />
+      <dc:source />
+      <welt:premium>false</welt:premium>
+      <welt:topic>Ex-Bundesfinanzminister</welt:topic>
+      <welt:commercialOptions>all</welt:commercialOptions>
+      <welt:subType>news</welt:subType>
+      <media:content type="image/jpeg" url="https://images.welt.de/6afd548ea883f861e5330252/171373ba818ef076fd3752b8c40e0650-master/ci23x11-w1200/95564-127-11-jpg">
+        <media:credit scheme="urn:ebu">Markus Hertrich/ZDF</media:credit>
+        <media:thumbnail url="https://images.welt.de/6afd548ea883f861e5330252/171373ba818ef076fd3752b8c40e0650-master/ci23x11-w1200/95564-127-11-jpg" />
+      </media:content>
+      <media:keywords>Steinbrück, Peer, SPD, ZDF, Newsteam, Russland, Lanz, Markus, Bürgergeld (ks)</media:keywords>
+      <dcterms:lastModified>2026-11-18T09:58:19.092Z</dcterms:lastModified>
+    </item>
+    <item>
+      <title>„In Deutschland wäre so ein Spiel gar nicht angepfiffen worden“ – U21 hadert mit Niederlage</title>
+      <link>https://www.welt.de/sport/fussball/article6afd65d6a883f861e53304bf/deutsche-u21-in-deutschland-waere-so-ein-spiel-gar-nicht-angepfiffen-worden.html</link>
+      <description>Das Spiel der deutschen U21 in Kroatien wird unter irregulären Bedingungen ausgetragen. Der Rasen? Eine Sumpflandschaft. Der deutsche Trainer Antonio Di Salvo spricht von „Pingpong“.</description>
+      <category>Fußball</category>
+      <pubDate>Wed, 18 Nov 2026 09:55:42 GMT</pubDate>
+      <guid isPermaLink="false">6afd65d6a883f861e53304bf</guid>
+      <dc:creator />
+      <dc:source>pk/dpa</dc:source>
+      <welt:premium>false</welt:premium>
+      <welt:topic>Wasserschlacht in Kroatien</welt:topic>
+      <welt:commercialOptions>all</welt:commercialOptions>
+      <welt:subType>news</welt:subType>
+      <media:content type="image/jpeg" url="https://images.welt.de/6afd65d6a883f861e53304bf/2e2809dab1fb3983c5b4cc1deb710af7/ci23x11-w1200/dpa-com-261117-936-148593-jpg">
+        <media:credit scheme="urn:ebu">Slavko Midzor/PIXSELL/dpa</media:credit>
+        <media:thumbnail url="https://images.welt.de/6afd65d6a883f861e53304bf/2e2809dab1fb3983c5b4cc1deb710af7/ci23x11-w1200/dpa-com-261117-936-148593-jpg" />
+      </media:content>
+      <media:keywords>Wasser, Regen (ks), U21-EM (ks), Kroatien</media:keywords>
+      <dcterms:lastModified>2026-11-18T09:57:10.194Z</dcterms:lastModified>
+    </item>
+    <item>
+      <title>„Feinde machen gehört manchmal dazu“ – Watzke will seinen BVB breitbeiniger sehen</title>
+      <link>https://www.welt.de/sport/fussball/bundesliga/borussia-dortmund/article6afc4a286ac09fcfba2e5234/borussia-dortmund-manchmal-feinde-machen-watzke-will-seinen-bvb-breitbeiniger-sehen.html</link>
+      <description>Hans-Joachim Watzke ist seit rund einem Jahr Präsident von Borussia Dortmund. Von einigen wurde ihm abgesprochen, in seiner neuen Funktion den BVB einen zu können. Er sieht das anders.</description>
+      <category>Borussia Dortmund</category>
+      <pubDate>Wed, 18 Nov 2026 09:50:59 GMT</pubDate>
+      <guid isPermaLink="false">6afc4a286ac09fcfba2e5234</guid>
+      <dc:creator />
+      <welt:premium>false</welt:premium>
+      <welt:topic>Klub-Patron</welt:topic>
+      <welt:commercialOptions>all</welt:commercialOptions>
+      <welt:subType>news</welt:subType>
+      <media:content type="image/jpeg" url="https://images.welt.de/6afc4a286ac09fcfba2e5234/0b201f5ff25f7164aaec1a124a779056/ci23x11-w1200/gettyimages-2297423269-jpg">
+        <media:credit scheme="urn:ebu">Getty Images/Jürgen Fromme - firo sportphoto</media:credit>
+        <media:thumbnail url="https://images.welt.de/6afc4a286ac09fcfba2e5234/0b201f5ff25f7164aaec1a124a779056/ci23x11-w1200/gettyimages-2297423269-jpg" />
+      </media:content>
+      <media:keywords>Rheinmetall, Borussia Dortmund, Watzke, Hans-Joachim, Nmecha, Felix</media:keywords>
+      <dcterms:lastModified>2026-11-18T10:02:47.327Z</dcterms:lastModified>
+    </item>
+    <item>
+      <title>Ungewöhnliche Geste – Xi begrüßt Trump persönlich am Flughafen</title>
+      <link>https://www.welt.de/politik/ausland/article6afd6fe9bb7e7a6679f92735/donald-trump-in-china-ungewoehnliche-geste-xi-jinping-begruesst-us-praesident-persoenlich-am-flughafen.html</link>
+      <description>US-Präsident Donald Trump trifft in Shenzhen Xi Jinping und Russlands Staatschef Wladimir Putin. Der chinesische Präsident kam zum Flughafen, um den Gast aus Washington zu begrüßen.</description>
+      <category>Ausland</category>
+      <pubDate>Wed, 18 Nov 2026 09:50:34 GMT</pubDate>
+      <guid isPermaLink="false">6afd6fe9bb7e7a6679f92735</guid>
+      <dc:creator />
+      <dc:source>dpa/kami</dc:source>
+      <welt:premium>false</welt:premium>
+      <welt:topic>Apec-Gipfel</welt:topic>
+      <welt:commercialOptions>all</welt:commercialOptions>
+      <welt:subType>news</welt:subType>
+      <media:group>
+        <media:content duration="349" type="video/mp4" url="https://welt.cdn.content-discovery.video/videos/fymf3y0hd8ja/rendition/8f3fc16d-73bd-46f6-b6f6-5e1ed7c47e2c/file-v720p.mp4" />
+        <media:content duration="349" type="application/vnd.apple.mpegurl" url="https://welt.cdn.content-discovery.video/videos/fymf3y0hd8ja/rendition/7272bb08-2401-4479-b027-d513229b296e/master.m3u8" />
+      </media:group>
+      <media:content type="image/jpeg" url="https://images.welt.de/6afd6fe9bb7e7a6679f92735/aa4ef07a3f3791dbe0294b8a44b098dd/ci23x11-w1200/gyi-2305674187-jpg">
+        <media:credit scheme="urn:ebu">WELT TV</media:credit>
+        <media:thumbnail url="https://images.welt.de/6afd6fe9bb7e7a6679f92735/aa4ef07a3f3791dbe0294b8a44b098dd/ci23x11-w1200/gyi-2305674187-jpg" />
+      </media:content>
+      <media:keywords>Trump, Donald (geb.1946), Putin, Wladimir, Xi Jinping,, Newsteam, Russland-Ukraine-Krieg (24.2.2022), China</media:keywords>
+      <dcterms:lastModified>2026-11-18T10:07:48.109Z</dcterms:lastModified>
+    </item>
+    <item>
+      <title>Die Union muss die SPD jetzt aus der Koalition werfen</title>
+      <link>https://www.welt.de/debatte/plus6afd64ba4e6cd4bac15cec70/bundesregierung-die-union-muss-die-spd-jetzt-aus-der-koalition-werfen.html</link>
+      <description>Von „Entlastung“ der Bürger kann bei acht Euro im Monat keine Rede sein. Die Koalition ist gescheitert. Die Union muss versuchen, allein zu regieren – bei dringenden Reformvorhaben im Zweifelsfall auch mit Stimmen der AfD.</description>
+      <category>Debatte</category>
+      <pubDate>Wed, 18 Nov 2026 09:38:31 GMT</pubDate>
+      <guid isPermaLink="false">6afd64ba4e6cd4bac15cec70</guid>
+      <dc:creator>Ulf Poschardt</dc:creator>
+      <welt:premium>true</welt:premium>
+      <welt:topic>Bundesregierung</welt:topic>
+      <welt:commercialOptions>all</welt:commercialOptions>
+      <welt:subType>opinion</welt:subType>
+      <media:content type="image/jpeg" url="https://images.welt.de/6afd64ba4e6cd4bac15cec70/385df45753cfdd7129699df3ec188ecd/ci23x11-w1200/dwosb-ulf-poschardt-orange">
+        <media:credit scheme="urn:ebu">Marlene Gawrisch/WELT</media:credit>
+        <media:thumbnail url="https://images.welt.de/6afd64ba4e6cd4bac15cec70/385df45753cfdd7129699df3ec188ecd/ci23x11-w1200/dwosb-ulf-poschardt-orange" />
+      </media:content>
+      <media:keywords>Brandmauer, CDU, Merz, Friedrich (CDU), SPD, Poschardt, Ulf, FDP, AfD</media:keywords>
+      <dcterms:lastModified>2026-11-18T10:04:03.258Z</dcterms:lastModified>
+    </item>
+    <item>
+      <title>„Der Kanzler kommt mir manchmal vor wie ein Kind, das sich nicht im Griff hat“</title>
+      <link>https://www.welt.de/politik/deutschland/video6afd6c0efc384ca056385c2f/kanzler-friedrich-merz-unter-druck-gordon-repinski-kritisiert-auftritt-im-koalitionsausschuss.html</link>
+      <description>Die Koalition einigt sich nach zähem Ringen auf eine befristete Stromsteuersenkung. Der Auftritt von Friedrich Merz sorgt für Gesprächsstoff. „Politico“-Journalist Gordon Repinski wird deutlich: „Er muss sich zusammenreißen.“</description>
+      <category>Deutschland</category>
+      <pubDate>Wed, 18 Nov 2026 09:27:54 GMT</pubDate>
+      <guid isPermaLink="false">6afd6c0efc384ca056385c2f</guid>
+      <dc:creator />
+      <dc:source>WELT TV</dc:source>
+      <welt:premium>false</welt:premium>
+      <welt:topic>Stromsteuer-Streit</welt:topic>
+      <welt:commercialOptions>all</welt:commercialOptions>
+      <welt:subType>video</welt:subType>
+      <media:group>
+        <media:content duration="317" type="video/mp4" url="https://welt.cdn.content-discovery.video/videos/iqk6kxoksefe/rendition/0e526d25-f870-418d-89da-00c5798ec5ca/file-v720p.mp4" />
+        <media:content duration="317" type="application/vnd.apple.mpegurl" url="https://welt.cdn.content-discovery.video/videos/iqk6kxoksefe/rendition/52d3aca9-1760-4644-ad50-31413456c22f/master.m3u8" />
+      </media:group>
+      <media:content type="image/jpeg" url="https://images.welt.de/6afd6c0efc384ca056385c2f/8b33eb26bb06d36a75a2296e55e2c1bc-master/ci16x9-w1200/1794993514059-afp-d7ug86y-jpg">
+        <media:credit scheme="urn:ebu">WELT TV</media:credit>
+        <media:rating scheme="urn:fsk">0</media:rating>
+        <media:thumbnail url="https://images.welt.de/6afd6c0efc384ca056385c2f/8b33eb26bb06d36a75a2296e55e2c1bc-master/ci16x9-w1200/1794993514059-afp-d7ug86y-jpg" />
+      </media:content>
+      <dcterms:lastModified>2026-11-18T10:10:14.490Z</dcterms:lastModified>
+    </item>
+    <item>
+      <title>„Bremer Bildung für alle, das kann nicht die Lösung sein“</title>
+      <link>https://www.welt.de/politik/deutschland/plus6af6ea295a72dceba1d61486/schulreform-bremer-bildung-fuer-alle-das-kann-nicht-die-loesung-sein.html</link>
+      <description>Unter Eltern ist der Wunsch nach einer Vereinheitlichung von Lehrplänen und Prüfungen ausgeprägt. Auch die Länder zeigen sich jetzt offen für mehr Vergleichbarkeit – bis zu einer Grenze.</description>
+      <category>Deutschland</category>
+      <pubDate>Wed, 18 Nov 2026 09:25:15 GMT</pubDate>
+      <guid isPermaLink="false">6af6ea295a72dceba1d61486</guid>
+      <dc:creator>Sabine Menkens</dc:creator>
+      <welt:premium>true</welt:premium>
+      <welt:topic>Schulreform</welt:topic>
+      <welt:commercialOptions>all</welt:commercialOptions>
+      <welt:subType>news</welt:subType>
+      <media:content type="image/jpeg" url="https://images.welt.de/6af6ea295a72dceba1d61486/61a85ee59f1c7dc31b00c674a2164375/ci23x11-w1200/gettyimages-2249519146-jpg">
+        <media:credit scheme="urn:ebu">Getty Images/Maskot</media:credit>
+        <media:thumbnail url="https://images.welt.de/6af6ea295a72dceba1d61486/61a85ee59f1c7dc31b00c674a2164375/ci23x11-w1200/gettyimages-2249519146-jpg" />
+      </media:content>
+      <media:keywords>Bildungspolitik (ks), Zentralabitur (ks), Bildung (ks), Abitur</media:keywords>
+      <dcterms:lastModified>2026-11-18T09:33:12.504Z</dcterms:lastModified>
+    </item>
+    <item>
+      <title>BSW scheitert mit Verfassungsbeschwerde zur Bundestagswahl – Wagenknecht spricht von „Fehlurteil“</title>
+      <link>https://www.welt.de/politik/deutschland/article6afd626cbb7e7a6679f92555/bsw-scheitert-mit-verfassungsbeschwerde-wahlpruefung-einer-bananenrepublik-sagt-sahra-wagenknecht.html</link>
+      <description>Die ​Stimmen für das BSW bei der vergangenen Bundestagswahl müssen ⁠nicht ​neu ‌ausgezählt werden. Das Bundesverfassungsgericht in Karlsruhe weist die Wahlprüfungsbeschwerde als unzulässig ‌zurück.</description>
+      <category>Deutschland</category>
+      <pubDate>Wed, 18 Nov 2026 09:23:00 GMT</pubDate>
+      <guid isPermaLink="false">6afd626cbb7e7a6679f92555</guid>
+      <dc:creator />
+      <dc:source>ll mit dpa/Reuters</dc:source>
+      <welt:premium>false</welt:premium>
+      <welt:topic>Bundesverfassungsgericht</welt:topic>
+      <welt:commercialOptions>all</welt:commercialOptions>
+      <welt:subType>news</welt:subType>
+      <media:group>
+        <media:content duration="183" type="video/mp4" url="https://welt.cdn.content-discovery.video/videos/jse9djhk4xtx/rendition/7f10613c-cb3e-47db-be5f-7f4619c09a8f/file-v720p.mp4" />
+        <media:content duration="183" type="application/vnd.apple.mpegurl" url="https://welt.cdn.content-discovery.video/videos/jse9djhk4xtx/rendition/5eb99c5a-7272-4c3c-a60c-a029f3971cdd/master.m3u8" />
+      </media:group>
+      <media:content type="image/jpeg" url="https://images.welt.de/6afd626cbb7e7a6679f92555/f81b2a6f8edc4a0f5179e08cd40f9e55/ci23x11-w1200/dpa-com-261116-935-1745219-jpg">
+        <media:credit scheme="urn:ebu">WELT TV</media:credit>
+        <media:thumbnail url="https://images.welt.de/6afd626cbb7e7a6679f92555/f81b2a6f8edc4a0f5179e08cd40f9e55/ci23x11-w1200/dpa-com-261116-935-1745219-jpg" />
+      </media:content>
+      <media:keywords>Bündnis Sahra Wagenknecht (BSW), Bundestagswahl 2025, Newsteam, Wagenknecht, Sahra</media:keywords>
+      <dcterms:lastModified>2026-11-18T09:23:20.701Z</dcterms:lastModified>
+    </item>
+    <item>
+      <title>„Der Beste im Norden“ – Deutschlands möglicher Gegner liefert ein Drama</title>
+      <link>https://www.welt.de/sport/fussball/article6afd4cf8bb7e7a6679f92346/nations-league-der-beste-im-norden-deutschlands-moeglicher-gegner-liefert-ein-drama.html</link>
+      <description>Auf den letzten Drücker zieht Norwegen ins Viertelfinale der Nations League ein. Durch den Sieg über Dänemark ist das Team nun potenzieller Gegner der deutschen Nationalmannschaft. Für Aufsehen sorgt Haaland.</description>
+      <category>Fußball</category>
+      <pubDate>Wed, 18 Nov 2026 09:22:18 GMT</pubDate>
+      <guid isPermaLink="false">6afd4cf8bb7e7a6679f92346</guid>
+      <dc:creator />
+      <dc:source>pk</dc:source>
+      <welt:premium>false</welt:premium>
+      <welt:topic>Nations League</welt:topic>
+      <welt:commercialOptions>all</welt:commercialOptions>
+      <welt:subType>news</welt:subType>
+      <media:content type="image/jpeg" url="https://images.welt.de/6afd4cf8bb7e7a6679f92346/a69d6b5f4b031e56a636522562967443-master/ci23x11-w1200/gyi-2305601549-jpg">
+        <media:credit scheme="urn:ebu">UEFA via Getty Images/Oliver Hardt - UEFA</media:credit>
+        <media:thumbnail url="https://images.welt.de/6afd4cf8bb7e7a6679f92346/a69d6b5f4b031e56a636522562967443-master/ci23x11-w1200/gyi-2305601549-jpg" />
+      </media:content>
+      <media:keywords>Nations League, Haaland, Erling Braut, Deutschland Fußballnationalmannschaft</media:keywords>
+      <dcterms:lastModified>2026-11-18T09:25:26.367Z</dcterms:lastModified>
+    </item>
+    <item>
+      <title>„Der Berg kreißte und gebar eine Maus – Ich bin's leid“</title>
+      <link>https://www.welt.de/politik/deutschland/video6afd5f32a883f861e5330355/tiede-zur-stromsteuer-der-berg-kreisste-und-gebar-eine-maus-ich-bins-leid.html</link>
+      <description>„Bild“-Politik-Chefautor Peter Tiede kritisiert die Einigung zu Stromsteuer und Spritpreisdeckel. „Das tut dem Land nicht gut. Ihnen gelingt nicht das kleinste Aufbruchszeichen“, sagt Tiede.</description>
+      <category>Deutschland</category>
+      <pubDate>Wed, 18 Nov 2026 09:11:02 GMT</pubDate>
+      <guid isPermaLink="false">6afd5f32a883f861e5330355</guid>
+      <dc:creator />
+      <dc:source>WELT TV</dc:source>
+      <welt:premium>false</welt:premium>
+      <welt:topic>Tiede zur Stromsteuer</welt:topic>
+      <welt:commercialOptions>all</welt:commercialOptions>
+      <welt:subType>video</welt:subType>
+      <media:group>
+        <media:content duration="239" type="video/mp4" url="https://welt.cdn.content-discovery.video/videos/pykjktooi247/rendition/62edabc6-838e-49d4-9ffa-08325f5cf0ff/file-v720p.mp4" />
+        <media:content duration="239" type="application/vnd.apple.mpegurl" url="https://welt.cdn.content-discovery.video/videos/pykjktooi247/rendition/71b35e09-4ff2-4dd4-85ff-14e89d556093/master.m3u8" />
+      </media:group>
+      <media:content type="image/jpeg" url="https://images.welt.de/6afd5f32a883f861e5330355/35df40cada04879186604c12f1021d48/ci16x9-w1200/tiede-png">
+        <media:credit scheme="urn:ebu">WELT TV</media:credit>
+        <media:rating scheme="urn:fsk">0</media:rating>
+        <media:thumbnail url="https://images.welt.de/6afd5f32a883f861e5330355/35df40cada04879186604c12f1021d48/ci16x9-w1200/tiede-png" />
+      </media:content>
+      <dcterms:lastModified>2026-11-18T09:40:50.257Z</dcterms:lastModified>
+    </item>
+    <item>
+      <title>Berliner Linken-Vize verteidigt Emde – sieht „Strategie aus dem bürgerlichen und rechten Lager“</title>
+      <link>https://www.welt.de/politik/deutschland/article6afd56a5fc384ca056385a38/martha-kleedoerfer-berliner-linken-vize-verteidigt-emde-sieht-strategie-aus-dem-buergerlichen-und-rechten-lager.html</link>
+      <description>Die Berliner Vize-Parteichefin Martha Kleedörfer weist die Antisemitismusvorwürfe gegen die Abgeordnete Vanessa Emde zurück. Sie sieht in der Ausschlussforderung einen Angriff der politischen Gegner.</description>
+      <category>Deutschland</category>
+      <pubDate>Wed, 18 Nov 2026 09:09:15 GMT</pubDate>
+      <guid isPermaLink="false">6afd56a5fc384ca056385a38</guid>
+      <dc:creator />
+      <dc:source>krö</dc:source>
+      <welt:premium>false</welt:premium>
+      <welt:topic>Martha Kleedörfer</welt:topic>
+      <welt:commercialOptions>all</welt:commercialOptions>
+      <welt:subType>news</welt:subType>
+      <media:group>
+        <media:content duration="158" type="video/mp4" url="https://welt.cdn.content-discovery.video/videos/08vad17x6474/rendition/1b601b2c-a547-48d9-9acc-efba925c482a/file-v720p.mp4" />
+        <media:content duration="158" type="application/vnd.apple.mpegurl" url="https://welt.cdn.content-discovery.video/videos/08vad17x6474/rendition/01c72174-f9d3-42ec-b367-53a41891c6b0/master.m3u8" />
+      </media:group>
+      <media:content type="image/jpeg" url="https://images.welt.de/6afd56a5fc384ca056385a38/eb9b90513ec0e349fee67e62aa0925f4/ci23x11-w1200/616138744-jpg">
+        <media:credit scheme="urn:ebu">WELT TV</media:credit>
+        <media:thumbnail url="https://images.welt.de/6afd56a5fc384ca056385a38/eb9b90513ec0e349fee67e62aa0925f4/ci23x11-w1200/616138744-jpg" />
+      </media:content>
+      <media:keywords>Emde, Vanessa, Berlin, Antisemitismus (ks), Die Linke, Newsteam, Eralp, Elif</media:keywords>
+      <dcterms:lastModified>2026-11-18T10:12:22.067Z</dcterms:lastModified>
+    </item>
+    <item>
+      <title>„Vorfreude, die vor der letzten WM nicht da war“ – Kroos klatscht Klopp Beifall</title>
+      <link>https://www.welt.de/sport/fussball/article6afd4a71fc384ca056385945/kroos-klatscht-klopp-beifall-vorfreude-die-vor-der-letzten-wm-nicht-da-war.html</link>
+      <description>Toni Kroos lobt Jürgen Klopp. Unter dem neuen Bundestrainer sieht er bei der Nationalmannschaft wieder deutlich mehr Perspektive. Der Weltmeister von 2014 nennt Spieler, die ihm besonders auffallen.</description>
+      <category>Fußball</category>
+      <pubDate>Wed, 18 Nov 2026 08:48:27 GMT</pubDate>
+      <guid isPermaLink="false">6afd4a71fc384ca056385945</guid>
+      <dc:creator />
+      <dc:source>LaGa</dc:source>
+      <welt:premium>false</welt:premium>
+      <welt:topic>Nationalmannschaft</welt:topic>
+      <welt:commercialOptions>all</welt:commercialOptions>
+      <welt:subType>news</welt:subType>
+      <media:content type="image/jpeg" url="https://images.welt.de/6afd4a71fc384ca056385945/826afbc930a452530df709586bd5ea2f-master/ci23x11-w1200/288975932-jpg">
+        <media:credit scheme="urn:ebu">picture alliance/GES/Marvin Ibo G?ng?r</media:credit>
+        <media:thumbnail url="https://images.welt.de/6afd4a71fc384ca056385945/826afbc930a452530df709586bd5ea2f-master/ci23x11-w1200/288975932-jpg" />
+      </media:content>
+      <media:keywords>Kroos, Toni, Deutschland Fußballnationalmannschaft, Nagelsmann, Julian (Trainer), Klopp, Jürgen</media:keywords>
+      <dcterms:lastModified>2026-11-18T08:48:27.258Z</dcterms:lastModified>
+    </item>
+    <item>
+      <title>BSW scheitert am Bundesverfassungsgericht</title>
+      <link>https://www.welt.de/politik/deutschland/video6afd6486a883f861e5330462/wahlpruefungsbeschwerde-bsw-scheitert-am-bundesverfassungsgericht-in-karlsruhe.html</link>
+      <description>Das BSW ist am Bundesverfassungsgericht mit dem Versuch gescheitert, eine Neuauszählung der Stimmen für die Bundestagswahl 2025 zu erreichen. Der Zweite Senat verwarf eine entsprechende Wahlprüfungsbeschwerde als unzulässig.</description>
+      <category>Deutschland</category>
+      <pubDate>Wed, 18 Nov 2026 08:46:59 GMT</pubDate>
+      <guid isPermaLink="false">6afd6486a883f861e5330462</guid>
+      <dc:creator />
+      <dc:source>WELT TV</dc:source>
+      <welt:premium>false</welt:premium>
+      <welt:topic>Wahlprüfungsbeschwerde</welt:topic>
+      <welt:commercialOptions>all</welt:commercialOptions>
+      <welt:subType>video</welt:subType>
+      <media:group>
+        <media:content duration="183" type="video/mp4" url="https://welt.cdn.content-discovery.video/videos/jse9djhk4xtx/rendition/7f10613c-cb3e-47db-be5f-7f4619c09a8f/file-v720p.mp4" />
+        <media:content duration="183" type="application/vnd.apple.mpegurl" url="https://welt.cdn.content-discovery.video/videos/jse9djhk4xtx/rendition/5eb99c5a-7272-4c3c-a60c-a029f3971cdd/master.m3u8" />
+      </media:group>
+      <media:content type="image/jpeg" url="https://images.welt.de/6afd6486a883f861e5330462/fbba3b44ee0d1d492792c98e30b06b88-master/ci16x9-w1200/616711441-jpg">
+        <media:credit scheme="urn:ebu">WELT TV</media:credit>
+        <media:rating scheme="urn:fsk">0</media:rating>
+        <media:thumbnail url="https://images.welt.de/6afd6486a883f861e5330462/fbba3b44ee0d1d492792c98e30b06b88-master/ci16x9-w1200/616711441-jpg" />
+      </media:content>
+      <dcterms:lastModified>2026-11-18T08:49:26.815Z</dcterms:lastModified>
+    </item>
+    <item>
+      <title>„Wir wissen, dass man vor ihnen Angst haben muss“ – Wo Sicherheit vor Moskau nur eine Illusion ist</title>
+      <link>https://www.welt.de/politik/ausland/plus6abce5b79475b88d647ad81a/armenien-wir-wissen-dass-man-vor-ihnen-angst-haben-muss-wo-sicherheit-vor-moskau-nur-eine-illusion-ist.html</link>
+      <description>Russland hat den einstigen Verbündeten Armenien fallen lassen, aber immer noch Tausende Soldaten im Land. Für Kreml-Kritiker und Deserteure, die dorthin fliehen, ist das ein enormes Problem. Doch der Weg nach Europa ist vielen versperrt.</description>
+      <category>Ausland</category>
+      <pubDate>Wed, 18 Nov 2026 08:42:46 GMT</pubDate>
+      <guid isPermaLink="false">6abce5b79475b88d647ad81a</guid>
+      <dc:creator>Julius Fitzke</dc:creator>
+      <dc:source />
+      <welt:premium>true</welt:premium>
+      <welt:topic>Armenien</welt:topic>
+      <welt:commercialOptions>all</welt:commercialOptions>
+      <welt:subType>news</welt:subType>
+      <media:content type="image/jpeg" url="https://images.welt.de/6abce5b79475b88d647ad81a/9c1259ef0ff881daa635d3a4ba0e9f69-master/ci23x11-w1200/img-0237-jpeg">
+        <media:credit scheme="urn:ebu">Julius Fitzke</media:credit>
+        <media:thumbnail url="https://images.welt.de/6abce5b79475b88d647ad81a/9c1259ef0ff881daa635d3a4ba0e9f69-master/ci23x11-w1200/img-0237-jpeg" />
+      </media:content>
+      <media:keywords>Bergkarabach, Putin, Wladimir, Russland-Politik, Deserteure (ks), Soldaten (ks), Aserbaidschan, Russland-Ukraine-Krieg (24.2.2022), Berg-Karabach, Armenien, Militär</media:keywords>
+      <dcterms:lastModified>2026-11-18T08:42:46.138Z</dcterms:lastModified>
+    </item>
+    <item>
+      <title>„Armutszeugnis für eine Bundesregierung“ – Kritik an Stromsteuer-Entscheidung von Union und SPD</title>
+      <link>https://www.welt.de/politik/deutschland/video6afd646afc384ca056385b43/koalitionsausschuss-armutszeugnis-fuer-eine-bundesregierung-kritik-an-stromsteuer-entscheidung-von-union-und-spd.html</link>
+      <description>Lange ließ die Kritik an der beschlossenen Stromsteuer nicht auf sich warten.</description>
+      <category>Deutschland</category>
+      <pubDate>Wed, 18 Nov 2026 08:41:49 GMT</pubDate>
+      <guid isPermaLink="false">6afd646afc384ca056385b43</guid>
+      <dc:creator />
+      <dc:source>WELT TV</dc:source>
+      <welt:premium>false</welt:premium>
+      <welt:topic>Koalitionsausschuss</welt:topic>
+      <welt:commercialOptions>all</welt:commercialOptions>
+      <welt:subType>video</welt:subType>
+      <media:group>
+        <media:content duration="307" type="video/mp4" url="https://welt.cdn.content-discovery.video/videos/b95wuxhsjtkf/rendition/779ea93e-1363-4566-875f-4c795f952e09/file-v720p.mp4" />
+        <media:content duration="307" type="application/vnd.apple.mpegurl" url="https://welt.cdn.content-discovery.video/videos/b95wuxhsjtkf/rendition/28415475-4871-4862-9e9b-25d2030aa037/master.m3u8" />
+      </media:group>
+      <media:content type="image/jpeg" url="https://images.welt.de/6afd646afc384ca056385b43/fc2ea41f48cb536975f4c0c05aecb1f6/ci16x9-w1200/dpa-com-261008-935-1663665-jpg">
+        <media:credit scheme="urn:ebu">WELT TV</media:credit>
+        <media:rating scheme="urn:fsk">0</media:rating>
+        <media:thumbnail url="https://images.welt.de/6afd646afc384ca056385b43/fc2ea41f48cb536975f4c0c05aecb1f6/ci16x9-w1200/dpa-com-261008-935-1663665-jpg" />
+      </media:content>
+      <dcterms:lastModified>2026-11-18T08:41:49.422Z</dcterms:lastModified>
+    </item>
+    <item>
+      <title>Der lachende Dritte – was Xi in Shenzhen wirklich will</title>
+      <link>https://www.welt.de/politik/ausland/plus6afc25f16837d711cd2c7f5c/apec-gipfel-der-lachende-dritte-was-xi-in-shenzhen-wirklich-will.html</link>
+      <description>Xi Jinping empfängt Trump und Putin zu einem Dreiergespräch. In der Ukraine und Europa fürchtet man einen neuen „Jalta-Moment“, die Aufteilung der Welt in Einflusssphären. Aber China geht es um etwas anderes.</description>
+      <category>Ausland</category>
+      <pubDate>Wed, 18 Nov 2026 08:40:00 GMT</pubDate>
+      <guid isPermaLink="false">6afc25f16837d711cd2c7f5c</guid>
+      <dc:creator>Christina zur Nedden</dc:creator>
+      <welt:premium>true</welt:premium>
+      <welt:topic>Apec-Gipfel</welt:topic>
+      <welt:commercialOptions>all</welt:commercialOptions>
+      <welt:subType>news</welt:subType>
+      <media:content type="image/jpeg" url="https://images.welt.de/6afc25f16837d711cd2c7f5c/ac3819ce4f5fa2e9b5aa60edb1160111-master/ci23x11-w1200/2026-11-18t073650z-2088395834-rc27qoa7cbkn-rtrmadp-3-apec-summit-jpg">
+        <media:credit scheme="urn:ebu">Sergei Bobylyov/via REUTERS</media:credit>
+        <media:thumbnail url="https://images.welt.de/6afc25f16837d711cd2c7f5c/ac3819ce4f5fa2e9b5aa60edb1160111-master/ci23x11-w1200/2026-11-18t073650z-2088395834-rc27qoa7cbkn-rtrmadp-3-apec-summit-jpg" />
+      </media:content>
+      <media:keywords>Pazifik, Trump, Donald (geb.1946), Putin, Wladimir, China-Politik, Russland-Politik, Xi Jinping,, Europa, USA-Politik, Apec, Ukraine-Politik</media:keywords>
+      <dcterms:lastModified>2026-11-18T08:42:06.673Z</dcterms:lastModified>
+    </item>
+    <item>
+      <title>„Armutszeugnis für eine Bundesregierung“ – Kritik an Stromsteuer-Entscheidung von Union und SPD</title>
+      <link>https://www.welt.de/politik/deutschland/article6afd53ccbb7e7a6679f9240f/koalitionsausschuss-armutszeugnis-fuer-eine-bundesregierung-kritik-an-stromsteuer-entscheidung-von-union-und-spd.html</link>
+      <description>Die Bundesregierung senkt die Stromsteuer ab 2027 – zunächst aber nur für ein Jahr. Wirtschaft und Opposition kritisieren die Beschlüsse.</description>
+      <category>Deutschland</category>
+      <pubDate>Wed, 18 Nov 2026 08:25:54 GMT</pubDate>
+      <guid isPermaLink="false">6afd53ccbb7e7a6679f9240f</guid>
+      <dc:creator>Till Henniges</dc:creator>
+      <dc:source>mit dpa</dc:source>
+      <welt:premium>false</welt:premium>
+      <welt:topic>Koalitionsausschuss</welt:topic>
+      <welt:commercialOptions>all</welt:commercialOptions>
+      <welt:subType>news</welt:subType>
+      <media:group>
+        <media:content duration="307" type="video/mp4" url="https://welt.cdn.content-discovery.video/videos/b95wuxhsjtkf/rendition/779ea93e-1363-4566-875f-4c795f952e09/file-v720p.mp4" />
+        <media:content duration="307" type="application/vnd.apple.mpegurl" url="https://welt.cdn.content-discovery.video/videos/b95wuxhsjtkf/rendition/28415475-4871-4862-9e9b-25d2030aa037/master.m3u8" />
+      </media:group>
+      <media:content type="image/jpeg" url="https://images.welt.de/6afd53ccbb7e7a6679f9240f/ed720ac5b1fc132e2786799254953d3d/ci23x11-w1200/dpa-com-261008-935-1663665-jpg">
+        <media:credit scheme="urn:ebu">WELT TV</media:credit>
+        <media:thumbnail url="https://images.welt.de/6afd53ccbb7e7a6679f9240f/ed720ac5b1fc132e2786799254953d3d/ci23x11-w1200/dpa-com-261008-935-1663665-jpg" />
+      </media:content>
+      <media:keywords>Brantner, Franziska, CDU, Merz, Friedrich (CDU), SPD, Newsteam, Ziemiak, Paul, Stromsteuer (ks), Strompreise (ks)</media:keywords>
+      <dcterms:lastModified>2026-11-18T09:24:20.598Z</dcterms:lastModified>
+    </item>
+    <item>
+      <title>Stromsteuer, Spritpreisdeckel – aber an einer Lösung bei kalter Progression scheitert die Koalition</title>
+      <link>https://www.welt.de/politik/deutschland/video6afd5fa7a883f861e5330389/union-und-spd-stromsteuer-spritpreisdeckel-aber-an-einer-loesung-bei-kalter-progression-scheitert-die-koalition.html</link>
+      <description>Die Koalition hat sich vorerst nicht auf eine Lösung zum Ausgleich der sogenannten kalten Progression bei der Steuer einigen können.</description>
+      <category>Deutschland</category>
+      <pubDate>Wed, 18 Nov 2026 08:21:50 GMT</pubDate>
+      <guid isPermaLink="false">6afd5fa7a883f861e5330389</guid>
+      <dc:creator />
+      <dc:source>WELT TV</dc:source>
+      <welt:premium>false</welt:premium>
+      <welt:topic>Union und SPD</welt:topic>
+      <welt:commercialOptions>all</welt:commercialOptions>
+      <welt:subType>video</welt:subType>
+      <media:group>
+        <media:content duration="307" type="video/mp4" url="https://welt.cdn.content-discovery.video/videos/b95wuxhsjtkf/rendition/779ea93e-1363-4566-875f-4c795f952e09/file-v720p.mp4" />
+        <media:content duration="307" type="application/vnd.apple.mpegurl" url="https://welt.cdn.content-discovery.video/videos/b95wuxhsjtkf/rendition/28415475-4871-4862-9e9b-25d2030aa037/master.m3u8" />
+      </media:group>
+      <media:content type="image/jpeg" url="https://images.welt.de/6afd5fa7a883f861e5330389/0c7a288cf88ffd276fa0a3e437b8d7f9/ci16x9-w1200/dpa-com-261117-935-1748786-jpg">
+        <media:credit scheme="urn:ebu">WELT TV</media:credit>
+        <media:rating scheme="urn:fsk">0</media:rating>
+        <media:thumbnail url="https://images.welt.de/6afd5fa7a883f861e5330389/0c7a288cf88ffd276fa0a3e437b8d7f9/ci16x9-w1200/dpa-com-261117-935-1748786-jpg" />
+      </media:content>
+      <dcterms:lastModified>2026-11-18T08:21:50.981Z</dcterms:lastModified>
+    </item>
+    <item>
+      <title>Stromsteuer, Spritpreisdeckel – aber an einer Lösung bei kalter Progression scheitert die Koalition</title>
+      <link>https://www.welt.de/politik/deutschland/article6afd59484e6cd4bac15ceb8e/cdu-csu-und-spd-stromsteuer-spritpreisdeckel-aber-bei-der-kalten-progression-findet-die-koalition-keine-loesung.html</link>
+      <description>Acht Stunden rangen die Koalitionsspitzen von Union und SPD im Kanzleramt. Eine Lösung für die Absenkung der Stromsteuer konnte gefunden werden. Beim Abbau der kalten Progression klappte dies nicht.</description>
+      <category>Deutschland</category>
+      <pubDate>Wed, 18 Nov 2026 08:16:05 GMT</pubDate>
+      <guid isPermaLink="false">6afd59484e6cd4bac15ceb8e</guid>
+      <dc:creator />
+      <dc:source>AFP/rct</dc:source>
+      <welt:premium>false</welt:premium>
+      <welt:topic>Union und SPD</welt:topic>
+      <welt:commercialOptions>all</welt:commercialOptions>
+      <welt:subType>news</welt:subType>
+      <media:group>
+        <media:content duration="307" type="video/mp4" url="https://welt.cdn.content-discovery.video/videos/b95wuxhsjtkf/rendition/779ea93e-1363-4566-875f-4c795f952e09/file-v720p.mp4" />
+        <media:content duration="307" type="application/vnd.apple.mpegurl" url="https://welt.cdn.content-discovery.video/videos/b95wuxhsjtkf/rendition/28415475-4871-4862-9e9b-25d2030aa037/master.m3u8" />
+      </media:group>
+      <media:content type="image/jpeg" url="https://images.welt.de/6afd59484e6cd4bac15ceb8e/e1e620879310a7b2cc5130e7747f1d16/ci23x11-w1200/dpa-com-261117-935-1748786-jpg">
+        <media:credit scheme="urn:ebu">WELT TV</media:credit>
+        <media:thumbnail url="https://images.welt.de/6afd59484e6cd4bac15ceb8e/e1e620879310a7b2cc5130e7747f1d16/ci23x11-w1200/dpa-com-261117-935-1748786-jpg" />
+      </media:content>
+      <media:keywords>CDU, Merz, Friedrich (CDU), SPD, Newsteam, Stromsteuer (ks)</media:keywords>
+      <dcterms:lastModified>2026-11-18T08:22:16.006Z</dcterms:lastModified>
+    </item>
+    <item>
+      <title>Russische Propaganda – Hackerangriff auf Eishockey-Weltverband</title>
+      <link>https://www.welt.de/sport/eishockey/article6afd4dd1fc384ca056385970/eishockey-russische-propaganda-hacker-angriff-auf-weltverband.html</link>
+      <description>Mitten im Streit über Russlands Rückkehr wurde der Eishockey-Weltverband angegriffen. Seine Webseite zeigte russische Spieler und eine Propaganda-Parole.</description>
+      <category>Eishockey</category>
+      <pubDate>Wed, 18 Nov 2026 08:10:43 GMT</pubDate>
+      <guid isPermaLink="false">6afd4dd1fc384ca056385970</guid>
+      <dc:creator />
+      <dc:source>jb/dpa</dc:source>
+      <welt:premium>false</welt:premium>
+      <welt:topic>Homepage vom Netz</welt:topic>
+      <welt:commercialOptions>all</welt:commercialOptions>
+      <welt:subType>news</welt:subType>
+      <media:content type="image/jpeg" url="https://images.welt.de/6afd4dd1fc384ca056385970/5cfec3b77864e78a83a83b1db3f84fb8-master/ci23x11-w1200/264160660-jpg">
+        <media:credit scheme="urn:ebu">picture alliance/Andreas Gora</media:credit>
+        <media:thumbnail url="https://images.welt.de/6afd4dd1fc384ca056385970/5cfec3b77864e78a83a83b1db3f84fb8-master/ci23x11-w1200/264160660-jpg" />
+      </media:content>
+      <media:keywords>Russland, Russland-Ukraine-Krieg (24.2.2022), CAS, Eishockey</media:keywords>
+      <dcterms:lastModified>2026-11-18T08:11:18.864Z</dcterms:lastModified>
+    </item>
+    <item>
+      <title>Die teuersten Kulturgüter aller Zeiten</title>
+      <link>https://www.welt.de/kultur/article6af6d7b19849eea0701e1494/gta-vi-und-seine-verwandten-die-teuersten-kulturgueter-aller-zeiten.html</link>
+      <description>GTA VI soll das teuerste Kulturprodukt sein, das jemals hergestellt wurde. Wie schlagen sich im Vergleich die teuersten Filme, Bücher, Platten, Kunstwerke oder Serien? Eine Kostenübersicht.</description>
+      <category>Kultur</category>
+      <pubDate>Wed, 18 Nov 2026 08:10:06 GMT</pubDate>
+      <guid isPermaLink="false">6af6d7b19849eea0701e1494</guid>
+      <dc:creator>Michael Pilz,Marcus Woeller,Jan Küveler,Wieland Freund,Elmar Krekeler,Manuel Brug,Jakob Hayner,Richard Kämmerlings</dc:creator>
+      <welt:premium>false</welt:premium>
+      <welt:topic>GTA VI und seine Verwandten</welt:topic>
+      <welt:commercialOptions>all</welt:commercialOptions>
+      <welt:subType>news</welt:subType>
+      <media:group>
+        <media:content duration="163" type="application/vnd.apple.mpegurl" url="https://welt.cdn.content-discovery.video/videos/nssb6ma1akrg/rendition/715f648d28a1c7715ea8ca6f466ad0b4-gdyw0xcjrsf8onl-gta6-trailer/master.m3u8" />
+        <media:content duration="163" type="video/mp4" url="https://welt.cdn.content-discovery.video/videos/nssb6ma1akrg/rendition/715f648d28a1c7715ea8ca6f466ad0b4-gdyw0xcjrsf8onl-gta6-trailer/video_0_700.mp4" />
+        <media:content duration="163" type="video/mp4" url="https://welt.cdn.content-discovery.video/videos/nssb6ma1akrg/rendition/715f648d28a1c7715ea8ca6f466ad0b4-gdyw0xcjrsf8onl-gta6-trailer/video_1_1200.mp4" />
+        <media:content duration="163" type="video/mp4" url="https://welt.cdn.content-discovery.video/videos/nssb6ma1akrg/rendition/715f648d28a1c7715ea8ca6f466ad0b4-gdyw0xcjrsf8onl-gta6-trailer/video_2_2400.mp4" />
+        <media:content duration="163" type="video/mp4" url="https://welt.cdn.content-discovery.video/videos/nssb6ma1akrg/rendition/715f648d28a1c7715ea8ca6f466ad0b4-gdyw0xcjrsf8onl-gta6-trailer/video_3_4800.mp4" />
+      </media:group>
+      <media:content type="image/jpeg" url="https://images.welt.de/6af6d7b19849eea0701e1494/e2b25513dc16c76bb57bbaaabfbfea2c/ci23x11-w1200/jason-and-lucia-17-jpg">
+        <media:credit scheme="urn:ebu">Rockstar Games</media:credit>
+        <media:thumbnail url="https://images.welt.de/6af6d7b19849eea0701e1494/e2b25513dc16c76bb57bbaaabfbfea2c/ci23x11-w1200/jason-and-lucia-17-jpg" />
+      </media:content>
+      <media:keywords>Rockstar Games, Computerspiele (ks), Obama, Michelle (Ehefrau), Grand Theft Auto (ks), Tolkien, John R. R., Obama, Barack (Präsident/geb.1961), Rowling, Joanne K.</media:keywords>
+      <dcterms:lastModified>2026-11-18T09:05:10.261Z</dcterms:lastModified>
+    </item>
+    <item>
+      <title>Die neuen Hungerspiele finden im Berliner Olympiastadion statt – und sind die besten seit Jahren</title>
+      <link>https://www.welt.de/kultur/kino/article6af7242184c7128d8f27e728/neuer-tribute-von-panem-film-die-neuen-hungerspiele-finden-im-berliner-olympiastadion-statt-und-sind-die-besten-seit-jahren.html</link>
+      <description>Mit 200 Millionen Dollar, Ralph Fiennes und einem 21-jährigen Australier schickt Lionsgate den jungen Haymitch in die 50. Hungerspiele. Was das Prequel mit einem Spektakel zu tun hat, das Donald Trump vor drei Monaten in Ohio eröffnete.</description>
+      <category>Film</category>
+      <pubDate>Wed, 18 Nov 2026 08:09:59 GMT</pubDate>
+      <guid isPermaLink="false">6af7242184c7128d8f27e728</guid>
+      <dc:creator>Hanns-Georg Rodek</dc:creator>
+      <welt:premium>false</welt:premium>
+      <welt:topic>Neuer „Tribute von Panem“-Film</welt:topic>
+      <welt:commercialOptions>all</welt:commercialOptions>
+      <welt:subType>news</welt:subType>
+      <media:content type="image/jpeg" url="https://images.welt.de/6af7242184c7128d8f27e728/da5c96838294304468564d5b95930f87/ci23x11-w1200/solstice-final-trailer-grab-00002rc-jpg">
+        <media:credit scheme="urn:ebu">Courtesy of Lionsgate</media:credit>
+        <media:thumbnail url="https://images.welt.de/6af7242184c7128d8f27e728/da5c96838294304468564d5b95930f87/ci23x11-w1200/solstice-final-trailer-grab-00002rc-jpg" />
+      </media:content>
+      <media:keywords>Film (ks), Berlin, Collins, Suzanne (Autorin), Kino, Fiennes, Ralph, Die Tribute von Panem</media:keywords>
+      <dcterms:lastModified>2026-11-18T08:14:33.180Z</dcterms:lastModified>
+    </item>
+    <item>
+      <title>„Die Fähigkeit, die Welt zu zerstören, hat leider in bedrohlichem Ausmaß zugenommen“</title>
+      <link>https://www.welt.de/politik/ausland/video6afd579d4e6cd4bac15ceb77/trump-xi-und-putin-in-china-spd-politiker-ralf-stegner-warnt-vor-weltweitem-wettruesten.html</link>
+      <description>Trump, Xi und Putin treffen sich zum Dreiergipfel in China. SPD-Außenpolitiker Ralf Stegner sieht Chancen für Gespräche über nukleare Abrüstung, warnt aber vor dem weltweiten Wettrüsten: „Das macht die Welt gefährlicher, nicht sicherer.“</description>
+      <category>Ausland</category>
+      <pubDate>Wed, 18 Nov 2026 08:04:43 GMT</pubDate>
+      <guid isPermaLink="false">6afd579d4e6cd4bac15ceb77</guid>
+      <dc:creator />
+      <dc:source>WELT TV</dc:source>
+      <welt:premium>false</welt:premium>
+      <welt:topic>Dreiergipfel in China</welt:topic>
+      <welt:commercialOptions>all</welt:commercialOptions>
+      <welt:subType>video</welt:subType>
+      <media:group>
+        <media:content duration="349" type="video/mp4" url="https://welt.cdn.content-discovery.video/videos/fymf3y0hd8ja/rendition/8f3fc16d-73bd-46f6-b6f6-5e1ed7c47e2c/file-v720p.mp4" />
+        <media:content duration="349" type="application/vnd.apple.mpegurl" url="https://welt.cdn.content-discovery.video/videos/fymf3y0hd8ja/rendition/7272bb08-2401-4479-b027-d513229b296e/master.m3u8" />
+      </media:group>
+      <media:content type="image/jpeg" url="https://images.welt.de/6afd579d4e6cd4bac15ceb77/1a4a0a5f6a58e037ff50e91cee81f136/ci16x9-w1200/dwosb-3er-kombo-cw-jpg">
+        <media:credit scheme="urn:ebu">WELT TV</media:credit>
+        <media:rating scheme="urn:fsk">0</media:rating>
+        <media:thumbnail url="https://images.welt.de/6afd579d4e6cd4bac15ceb77/1a4a0a5f6a58e037ff50e91cee81f136/ci16x9-w1200/dwosb-3er-kombo-cw-jpg" />
+      </media:content>
+      <dcterms:lastModified>2026-11-18T08:04:43.922Z</dcterms:lastModified>
+    </item>
+    <item>
+      <title>„So ein Drama zu machen, nervt mich wirklich kolossal“</title>
+      <link>https://www.welt.de/mediathek/talk/meine-welt-meine-meinung/video6afd4db0bb7e7a6679f92361/stromsteuer-entlastung-so-ein-drama-zu-machen-nervt-mich-wirklich-kolossal.html</link>
+      <description>Im Vergleich zu dem 555-Milliarden-Haushalt für das kommende Jahr und einer Billion Steuereinnahmen insgesamt, geht es bei der Stromsteuer-Entlastung „irgendwie um ein halbes Promille“. WELT-Wirtschaftsredakteur Holger Zschäpitz ist „genervt“.</description>
+      <category>Meine Welt Meine Meinung</category>
+      <pubDate>Wed, 18 Nov 2026 07:38:25 GMT</pubDate>
+      <guid isPermaLink="false">6afd4db0bb7e7a6679f92361</guid>
+      <dc:creator />
+      <dc:source>WELT TV</dc:source>
+      <welt:premium>false</welt:premium>
+      <welt:topic>Stromsteuer-Entlastung</welt:topic>
+      <welt:commercialOptions>all</welt:commercialOptions>
+      <welt:subType>video</welt:subType>
+      <media:group>
+        <media:content duration="505" type="video/mp4" url="https://welt.cdn.content-discovery.video/videos/tl1sso4ttkpa/rendition/28f8cd19-eb2b-4711-b8f1-44a18707604f/file-v720p.mp4" />
+        <media:content duration="505" type="application/vnd.apple.mpegurl" url="https://welt.cdn.content-discovery.video/videos/tl1sso4ttkpa/rendition/26fb7ae4-977c-4df2-9d77-7a25313d3549/master.m3u8" />
+      </media:group>
+      <media:content type="image/jpeg" url="https://images.welt.de/6afd4db0bb7e7a6679f92361/6a186dd4cfb42ff9c6d8afcb85114b66/ci16x9-w1200/holger-png">
+        <media:credit scheme="urn:ebu">WELT TV</media:credit>
+        <media:rating scheme="urn:fsk">0</media:rating>
+        <media:thumbnail url="https://images.welt.de/6afd4db0bb7e7a6679f92361/6a186dd4cfb42ff9c6d8afcb85114b66/ci16x9-w1200/holger-png" />
+      </media:content>
+      <dcterms:lastModified>2026-11-18T08:03:27.033Z</dcterms:lastModified>
+    </item>
+    <item>
+      <title>Lawrow wirft Frankreich „direkte Beteiligung am Ukraine-Krieg“ vor – „Absurd“, heißt es aus Paris</title>
+      <link>https://www.welt.de/politik/ausland/video6afd5575fc384ca056385a0a/franzoesische-mission-volia-lawrow-wirft-frankreich-direkte-beteiligung-am-ukraine-krieg-vor-absurd-heisst-es-aus-paris.html</link>
+      <description>Nach Bekanntwerden der Präsenz französischer Soldaten in der Ukraine hat der russische Außenminister Sergej Lawrow Frankreich eine Kriegsteilnahme vorgeworfen – was Frankreich umgehend zurückwies.</description>
+      <category>Ausland</category>
+      <pubDate>Wed, 18 Nov 2026 07:37:54 GMT</pubDate>
+      <guid isPermaLink="false">6afd5575fc384ca056385a0a</guid>
+      <dc:creator />
+      <dc:source>WELT TV</dc:source>
+      <welt:premium>false</welt:premium>
+      <welt:topic>Französische Mission „Volia“</welt:topic>
+      <welt:commercialOptions>all</welt:commercialOptions>
+      <welt:subType>video</welt:subType>
+      <media:group>
+        <media:content duration="146" type="video/mp4" url="https://welt.cdn.content-discovery.video/videos/lroe3wbg2eja/rendition/9218d443-5e06-4eb4-8e82-b08a75581843/file-v720p.mp4" />
+        <media:content duration="146" type="application/vnd.apple.mpegurl" url="https://welt.cdn.content-discovery.video/videos/lroe3wbg2eja/rendition/fc808d3e-fd91-4e8a-af8e-195543bf490a/master.m3u8" />
+      </media:group>
+      <media:content type="image/jpeg" url="https://images.welt.de/6afd5575fc384ca056385a0a/0baa4f5831e88a415b5eb27cd63f0401/ci16x9-w1200/dpa-com-261117-935-1749098-jpg">
+        <media:credit scheme="urn:ebu">WELT TV</media:credit>
+        <media:rating scheme="urn:fsk">0</media:rating>
+        <media:thumbnail url="https://images.welt.de/6afd5575fc384ca056385a0a/0baa4f5831e88a415b5eb27cd63f0401/ci16x9-w1200/dpa-com-261117-935-1749098-jpg" />
+      </media:content>
+      <dcterms:lastModified>2026-11-18T07:37:54.513Z</dcterms:lastModified>
+    </item>
+  </channel>
+</rss>
